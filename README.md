@@ -1,4 +1,4 @@
-# Contact Form 
+# Contact Form Web App
 
 A responsive and modern contact form built with **React**, **Vite**, and **Tailwind CSS**, powered by **EmailJS** to send messages directly from the frontend—no backend required.
 
